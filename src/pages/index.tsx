@@ -10,11 +10,10 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <h1>Next Tailwind Starter</h1>
-        <p>
-          Get started by editing <code>pages/index.tsx</code>
-        </p>
+      <main className="flex justify-center items-center h-screen">
+        <h1 className="text-3xl font-bold text-gray-800">
+          Next Tailwind Starter
+        </h1>
       </main>
     </div>
   );
