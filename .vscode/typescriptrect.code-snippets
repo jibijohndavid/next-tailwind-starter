@@ -40,7 +40,7 @@
     ]
   },
   "React Functional Component with Props": {
-    "prefix": "rcp",
+    "prefix": "rafce",
     "body": [
       "import * as React from 'react';\n",
       "import clsxm from '@/lib/clsxm';\n",
